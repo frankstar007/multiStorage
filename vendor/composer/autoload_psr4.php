@@ -8,7 +8,6 @@ $baseDir = dirname($vendorDir);
 return array(
     'zgldh\\QiniuStorage\\' => array($vendorDir . '/zgldh/qiniu-laravel-storage/src'),
     'Qiniu\\' => array($vendorDir . '/qiniu/php-sdk/src/Qiniu'),
-    'NoahBuscher\\Macaw\\' => array($vendorDir . '/noahbuscher/macaw'),
     'League\\Flysystem\\' => array($vendorDir . '/league/flysystem/src'),
     'JohnLui\\AliyunOSS\\' => array($vendorDir . '/johnlui/aliyun-oss'),
 );
